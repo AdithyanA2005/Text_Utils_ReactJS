@@ -1,7 +1,7 @@
 {
   "name": "text-utils",
   "version": "0.1.0",
-  "homepage": "https://AdithyanA2005.github.io/Text-Utils-ReactJs",
+  "homepage": "https://adithyana2005.github.io/Text_Utils_ReactJS/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
